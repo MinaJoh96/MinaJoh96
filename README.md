@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MinaJoh96
-- 💼 Junior Front-end develepor at Kindly
+- 💼 Junior Front-end developer at Kindly
 - 👀 I’m interested in coding, music and gaming (recently started my MTG journey)
 - 🌱 I’m currently learning Typescript, React, advance CSS
 - 💞️ I’m looking to collaborate on cool projects that can make me a better programmer.
