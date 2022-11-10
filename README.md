@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Mina (@MinaJoh96)
-- 💼 Junior Front-end developer at Kindly
+- 💼 Front-end developer at Kindly
 - 👀 I’m interested in coding, music and gaming (recently started my MTG journey)
-- 🌱 I’m currently learning Typescript, React, advance CSS
+- 🌱 I’m currently learning about AWS cloud console
 - 💞️ I’m looking to collaborate on cool projects that can make me a better programmer.
 - 📫 How to reach me:
-<br/>private: Joh.Mina96@gmail.com 
+<br/>private: mina.tj96@outllok.com
 <br/>work email: Mina.johannessen@kindly.ai
 
 <!---
