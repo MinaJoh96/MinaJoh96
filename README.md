@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mina (@MinaJoh96)
 - 💼 Fiskeridirektoratet 
 - 👀 I’m interested in coding, music and gaming.
-- 🌱 I’m currently learning about Svelte. 
+- 🌱 I’m currently learning Java - Spring boot. 
 - 💞️ I’m looking to collaborate on cool projects that can make me a better programmer.
 - 📫 How to reach me:
 <br/>private: mina.tj96@outlook.com
