@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mina (@MinaJoh96)
 - 💼 Fiskeridirektoratet 
 - 👀 I’m interested in coding, music and gaming.
-- 🌱 I’m currently learning Java - Spring boot. 
-- 💞️ I’m looking to collaborate on cool projects that can make me a better programmer.
+- 🌱 I’m currently learning Ruby on Rails. 
+- 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me:
 <br/>private: mina.tj96@outlook.com
 <br>Previously worked as a Front-end developer at Kindly.
