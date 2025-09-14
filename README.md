@@ -6,9 +6,9 @@
 - 🌱 I’m currently ricing 🍚 my linux . 
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me:
-<br/>private: mina.tj96@outlook.com
-<br>Previously worked as a Front-end developer at Kindly.
-<br/>Currently working at Fiskeridirektoratet.
+  - private: mina.tj96@outlook.com
+  - Previously worked as a Front-end developer at Kindly.
+  - Currently working at Fiskeridirektoratet.
 
 
 <h2> 🚀 &nbsp; My Github history</h2>
@@ -19,7 +19,7 @@
 
 
 
-<h2> 👩🏻‍💻 &nbsp; Technologies & tools</h2>
+<h2> 👩🏻‍💻 &nbsp; Technologies & tools - 🔧 not done</h2>
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" alt="archlinux" width="45" height="45"/>          
