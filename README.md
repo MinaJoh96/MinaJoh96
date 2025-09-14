@@ -11,12 +11,14 @@
   - Currently working at Fiskeridirektoratet.
 
 
+
 <h2> 🚀 &nbsp; My Github history</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minajoh96&layout=compact&theme=onedark)
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minajoh96&show_icons=true&theme=onedark)
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
 <h2> 👩🏻‍💻 &nbsp; Technologies & tools - 🔧 not done</h2>
@@ -42,6 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="nvim" width="45" height="45"/>
                                        
 </p>
+
 <!---
 MinaJoh96/MinaJoh96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
