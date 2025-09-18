@@ -14,10 +14,10 @@
 
 <h2> 🚀 &nbsp; My Github history</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minajoh96&layout=compact&theme=tokyonight)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minajoh96&layout=compact&theme=tokyonight)
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minajoh96&show_icons=true&theme=tokyonight)
-
+-->
 
 <h2> 👩🏻‍💻 &nbsp; Technologies & tools - 🔧 not done</h2>
 <p align="left">
